@@ -36,6 +36,8 @@
 		848F1CC0293348EE00EF9AC7 /* ExponentiationExpressionASTNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848F1CB4293348EE00EF9AC7 /* ExponentiationExpressionASTNode.swift */; };
 		848F1CC1293348EE00EF9AC7 /* VariableExpressionASTNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848F1CB5293348EE00EF9AC7 /* VariableExpressionASTNode.swift */; };
 		848F1CC2293348EE00EF9AC7 /* NumberExpressionASTNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 848F1CB6293348EE00EF9AC7 /* NumberExpressionASTNode.swift */; };
+		848F1CC529334C3700EF9AC7 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 848F1CC329334C3700EF9AC7 /* LICENSE */; };
+		848F1CC629334C3700EF9AC7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 848F1CC429334C3700EF9AC7 /* README.md */; };
 		84DBA9E12790D8D300A4CEB6 /* Rect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DBA9D12790D8D200A4CEB6 /* Rect.swift */; };
 		84DBA9E22790D8D300A4CEB6 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DBA9D22790D8D200A4CEB6 /* MainView.swift */; };
 		84DBA9E32790D8D300A4CEB6 /* Operators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DBA9D32790D8D200A4CEB6 /* Operators.swift */; };
@@ -101,6 +103,8 @@
 		848F1CB4293348EE00EF9AC7 /* ExponentiationExpressionASTNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExponentiationExpressionASTNode.swift; sourceTree = "<group>"; };
 		848F1CB5293348EE00EF9AC7 /* VariableExpressionASTNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VariableExpressionASTNode.swift; sourceTree = "<group>"; };
 		848F1CB6293348EE00EF9AC7 /* NumberExpressionASTNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumberExpressionASTNode.swift; sourceTree = "<group>"; };
+		848F1CC329334C3700EF9AC7 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		848F1CC429334C3700EF9AC7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		84DBA9D12790D8D200A4CEB6 /* Rect.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Rect.swift; sourceTree = "<group>"; };
 		84DBA9D22790D8D200A4CEB6 /* MainView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		84DBA9D32790D8D200A4CEB6 /* Operators.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Operators.swift; sourceTree = "<group>"; };
@@ -191,6 +195,8 @@
 		842C30A5276BD1D900931CF0 = {
 			isa = PBXGroup;
 			children = (
+				848F1CC329334C3700EF9AC7 /* LICENSE */,
+				848F1CC429334C3700EF9AC7 /* README.md */,
 				842C30B0276BD1D900931CF0 /* GraphingCalculator */,
 				842C30AF276BD1D900931CF0 /* Products */,
 			);
@@ -373,6 +379,8 @@
 			files = (
 				842C30B9276BD1DC00931CF0 /* Preview Assets.xcassets in Resources */,
 				84DBAA312791F50D00A4CEB6 /* latinmodern-math.otf in Resources */,
+				848F1CC629334C3700EF9AC7 /* README.md in Resources */,
+				848F1CC529334C3700EF9AC7 /* LICENSE in Resources */,
 				842C30B6276BD1DC00931CF0 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
